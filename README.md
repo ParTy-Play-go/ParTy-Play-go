@@ -1,3 +1,4 @@
-#  ParTyPlayGo - GENIAL DEVELOPER))
+#  ParTyPlayGo - Russian dumb developer
 
-Шучу, я нихера не умею.
+![image](https://user-images.githubusercontent.com/52920235/119269865-81e29a00-bc02-11eb-966e-96bc6ef185b2.png)
+
